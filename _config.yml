@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ender Minyard"
 title_separator          : "-"
 name                     : &name "Ender Minyard"
-description              : &description "Thoughts on theoretical computer science."
+description              : &description "Ender Minyard is a mathematician in NYC.."
 url                      : https://enderminyard.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enderminyard/academic-page"
@@ -24,9 +24,9 @@ author:
   avatar           :
   name             : "Ender Minyard"
   pronouns         : "no pronouns"
-  bio              : "Musings on theoretical computer science."
+  bio              : "Studying mathematics."
   location         : "NYC"
-  employer         : "NYU"
+  employer         : "New York University"
   uri              : # URL
   email            : "nam10114 @ nyu dot edu" 
 

@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPS in Interactive Telecommunications, [New York University](https://nyu.edu), 2026
+* B.S. in Applied Mathematics, [Columbia University](https://columbia.edu), 2024
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: Twoples Mentee
+  * [Twoples Mentorship program](https://sites.google.com/view/twoples/home)
+  * Wrote an 11 page expository paper exploring the Hasse-Minkowski theorem for quadratic forms, including proofs.
+  * Supervisor: Hunter Handley
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring - Fall 2021: Undergraduate Researcher
+  * [Columbia University](https://columbia.edu)
+  * Developed and maintained methods to organize and compare disparate data sets used to train two machine learning models.
+  * Supervisor: Albert Boulanger
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 2022: [Machine Learning Collective](https://mlcollective.org/)
+  * Wrote, presented, and explained slideshow about neural radiance fields and plenoptic voxels.
+* 2022: [Cohere for AI](https://cohere.com/research/open-science)
+  * Wrote, presented, and explained slideshow presentation about residual networks and skip connections.
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Spring 2023: Creative Technology Resident
+  * The GIANT Room
+  * Designed and taught computational thinking workshops for children (ages 3–12) covering logic, algorithms, and basic programming.
+ 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2024 - present: Founder of [Harriet Network](https://harrietnetwork.com)
+  * Distributed 50 long-range radios and 5 solar panels to unhoused New Yorkers.
+  * Received 2 [Prototyping Fund](https://makerspace.engineering.nyu.edu/funding/prototypingfund/)  grants and 1 [HEAR US](https://tisch.nyu.edu/research/bios/hear-us-bios/hear-us-25/EnderMinyard.html) grant from New York University.
+
+Skills
+======
+* Mathematical
+  * LaTeX
+  * Problem Solving
+* Computational
+  * Python
+  * Rust
+  * WebAssembly
+* Git, Version Control

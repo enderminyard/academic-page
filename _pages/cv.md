@@ -45,7 +45,7 @@ Teaching
   * Designed and taught computational thinking workshops for children (ages 3–12) covering logic, algorithms, and basic programming.
  
   
-Service and leadership
+Service and Leadership
 ======
 * 2024 - present: Founder of [Harriet Network](https://harrietnetwork.com)
   * Distributed 50 long-range radios and 5 solar panels to unhoused New Yorkers.

@@ -21,7 +21,7 @@ repository               : "enderminyard/academic-page"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://live.staticflickr.com/590/21446738793_3886b22056.jpg"
+  avatar           : "https://tisch.nyu.edu/content/dam/tisch/CreativeResearch/bios/hear-us/HEARUS25/Ender_Minyard.png"
   name             : "Ender Minyard"
   pronouns         : "no pronouns"
   bio              : "Studying mathematics."

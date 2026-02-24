@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Ender Minyard"
-title_separator          : "-"
-name                     : &name "Ender Minyard"
+title_separator          : 
+name                     : 
 description              : &description "Ender Minyard is a mathematician living in New York."
 url                      : https://enderminyard.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

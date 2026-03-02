@@ -27,4 +27,4 @@ I am inspired by the design space of AI tools such as [Nimo](https://www.nimo.sp
 ![integrity inspired](../images/integrity_inspired.png)
 
 **CodeRibbon-Inspired Wireframe**
-![CodeRibbon inspired](/images/CodeRibbon+inspired.png)
+![CodeRibbon inspired](../images/CodeRibbon+inspired.png)

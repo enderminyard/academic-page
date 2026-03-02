@@ -171,13 +171,16 @@ Phase 1
 * Backdrop: integrity.sh-inspired wireframe
 * Export session to QR code link button
 * Input to manually type in PIN corresponding to QR code link
+
 Phase 2
 * [when you join a collaboration session you automatically "follow" the host's edit location](https://learn.microsoft.com/en-us/visualstudio/liveshare/overview/features)
 * [Follow cursor of collaborators.](https://help.figma.com/hc/en-us/articles/360040322673-Present-to-collaborators-using-spotlight)
-  * Click on collaborator's avatar in menu bar to automatically follow them.   
+  * Click on collaborator's avatar in menu bar to automatically follow them.
+ 
 Phase 3
 * [Show highlighted text from remote collaborator.](https://learn.microsoft.com/en-us/visualstudio/liveshare/overview/features)
   * "You can see each collaborator's edits, their cursors and selections, and more."
+    
 Phase 4
 * Code comprehension is hard. Maybe a [minimap](https://uiw.tf/minimap) would help?
 

@@ -8,7 +8,6 @@ tags:
   - ideation
 ---
 
-## Concept
 
 I am designing an integrated development environment for a programming language I authored called Starling. Starling is a user-friendly frontend for [Metamath](https://en.wikipedia.org/wiki/Metamath). (The Starling language is 50% done.)
 

@@ -20,3 +20,11 @@ Starling is a language and proof assistant. The language will be text-based, lik
 
 I am inspired by the design space of AI tools such as [Nimo](https://www.nimo.space) and [Integrity](https://integrity.sh/). I'm also a fan of [Austin Henley's research into code editor design](https://austinhenley.com/pubs/Klein2021ICSME_CodeRibbon.pdf). 
 
+**Nimo-Inspired Wireframe**
+![nimo inspired](../images/nimo_inspired.png)
+
+**Integrity-Inspired Wireframe**
+![integrity inspired](../images/integrity_inspired.png)
+
+**CodeRibbon-Inspired Wireframe**
+![CodeRibbon inspired](/images/CodeRibbon+inspired.png)

@@ -8,8 +8,6 @@ tags:
   - ideation
 ---
 
-{{ content | toc }} 
-
 I am designing an integrated development environment for a programming language I authored called Starling. Starling is a user-friendly frontend for [Metamath](https://en.wikipedia.org/wiki/Metamath). (The Starling language is 50% done.)
 
 Starling is a language and proof assistant. The language will be text-based, like any language you use in Visual Studio Code. The Starling IDE, however, will replace Visual Studio Code. I find the design of Visual Studio Code to be unpleasant. I desire a more playful and visually enhanced coding experience. Starling IDE solves this problem by arranging and debugging code visually.
@@ -183,4 +181,21 @@ Phase 3
     
 Phase 4
 * Code comprehension is hard. Maybe a [minimap](https://uiw.tf/minimap) would help?
+
+### Detailed User Joureny Wireframes
+
+Phase 1
+
+![phase 1](/files/dwd_wireframe_1.png)
+![phase 1](/files/dwd_wireframe_2.png)
+![phase 1](/files/dwd_wireframe_3.png)
+
+Phase 2
+
+![phase 2](/files/dwd_wireframe_4.png)
+
+Phase 3
+
+![phase 3](/files/dwd_wireframe_5.png)
+
 

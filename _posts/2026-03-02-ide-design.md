@@ -46,7 +46,7 @@ Scenario
 
 * Looking into Starling for the first time.
 
-User Expectations
+ Expectations
 
 * Expects Starling to be similar to Lean.
 
@@ -182,7 +182,7 @@ Phase 3
 Phase 4
 * Code comprehension is hard. Maybe a [minimap](https://uiw.tf/minimap) would help?
 
-### Detailed User Joureny Wireframes
+### Detailed User Journey Wireframes
 
 Phase 1
 

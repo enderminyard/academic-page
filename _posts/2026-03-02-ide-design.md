@@ -159,7 +159,7 @@ Internal Ownership
 I plan to:
 1. Annotate the remote collaborator user journey.
 2. Draw, stateful detailed wireframes based on this annotated user journey.
-3. Decide in copy in the wireframes.
+3. Decide on copy in the wireframes.
 4. Convert each wireframe to an HTML page.
 5. Add JavaScript functionality to the HTML pages.
 

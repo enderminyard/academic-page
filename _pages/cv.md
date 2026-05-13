@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* M.S. in Mathematics, [City University of New York](https://www.ccny.cuny.edu/), 2028
 * MPS in Interactive Telecommunications, [New York University](https://nyu.edu), 2026
 * B.S. in Applied Mathematics, [Columbia University](https://columbia.edu), 2024
 
@@ -31,9 +32,13 @@ Research
   
 Talks
 ======
+* 2026: [MAA Metro New York Annual Meeting](http://sections.maa.org/metrony/meetings/spring2026.pdf)
+  * Presented Starling proof assistant for 10 minutes to an audience of mathematicians.
+* 2026: [Math for All](https://www.mathforallconference.com/home)
+  * Presented Starling proof assistant for 20 minutes to an audience of mathematicians.
 * 2022: [Machine Learning Collective](https://mlcollective.org/)
   * Wrote, presented, and explained slideshow about neural radiance fields and plenoptic voxels.
-* 2022: [Cohere for AI](https://cohere.com/research/open-science)
+* 2022: [Cohere](https://cohere.com/research/open-science)
   * Wrote, presented, and explained slideshow presentation about residual networks and skip connections.
 
   

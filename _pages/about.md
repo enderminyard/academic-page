@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an incoming student at the [City University of New York](https://www.ccny.cuny.edu/), where I will be studying for a Master of Science in Mathematics.
 
-
-I am currently taking **Introduction to Number Theory I** and **Post-Quantum Cryptography** at [New York University](https://nyu.edu).  In the Fall 2025 semester, I studied number theory as a mentee in the [Twoples mentorship program](https://sites.google.com/view/twoples/home). 
+I recently took **Introduction to Number Theory I** and **Post-Quantum Cryptography** while a student of [New York University](https://nyu.edu).  In the Fall 2025 semester, I studied number theory as a mentee in the [Twoples mentorship program](https://sites.google.com/view/twoples/home). 
 
 I am interested in number theory, especially as it relates to post-quantum cryptography. 
 
-Under the guidance of my [Twoples mentor](https://sites.google.com/view/twoples/home) Hunter Handley, I was able to solidify my understanding of the [Hasse-Minkowski theorem](https://en.wikipedia.org/wiki/Hasse%E2%80%93Minkowski_theorem) by writing an expository paper. I studied data science and machine learning at [Columbia University](https://columbia.edu) as part of an undergraduate research program. I became interested in [the connections between NP-hard problems in cryptography and open questions about hardness of learning](https://sitanchen.com/ccsi_rg.html) in computational learning theory. 
+Under the guidance of my [Twoples mentor](https://sites.google.com/view/twoples/home) Hunter Handley, I was able to solidify my understanding of the [Hasse-Minkowski theorem](https://en.wikipedia.org/wiki/Hasse%E2%80%93Minkowski_theorem) by writing an expository paper. I studied data science and machine learning at [Columbia University](https://columbia.edu) as part of an undergraduate research program. I became interested in [the connections between NP-hard problems in cryptography and open questions about hardness of learning](https://sitanchen.com/ccsi_rg.html) in computational learning theory.

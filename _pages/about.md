@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming student at the [City University of New York](https://www.ccny.cuny.edu/), where I will be studying for a Master of Science in Mathematics.
+I am an incoming student at the [City University of New York](https://www.ccny.cuny.edu/), where I will begin studying for a Master of Science in Mathematics during the Spring 2027 semester.
 
 I recently took **Introduction to Number Theory I** and **Post-Quantum Cryptography** while a student of [New York University](https://nyu.edu).  In the Fall 2025 semester, I studied number theory as a mentee in the [Twoples mentorship program](https://sites.google.com/view/twoples/home). 
 
